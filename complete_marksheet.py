@@ -43,4 +43,4 @@ def put_output(name,clg,Date,subject_marks):
 
 name,clg,date,subject_marks=get_input()
 put_output(name,clg,date,subject_marks)
-put_output(name,clg,date,subject_marks)
+
